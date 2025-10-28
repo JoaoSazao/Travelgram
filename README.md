@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner-Rocketseat.png" alt="Travelgram Banner" width="960">
+  <img src="./assets/Logo.svg" alt="Travelgram Banner" width="960">
 </p>
 
 # ✈️ Travelgram  
