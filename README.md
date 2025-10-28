@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/Logo.svg" alt="Travelgram Banner" width="960">
-</p>
+![Logo da Minha Empresa](https://travelgram-rho.vercel.app/assets/Logo.svg)
 
 # ✈️ Travelgram  
 
