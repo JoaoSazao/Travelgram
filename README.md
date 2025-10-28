@@ -1,5 +1,9 @@
 ![Logo da Minha Empresa](https://travelgram-rho.vercel.app/assets/Logo.svg)
 
+<div align="center">
+  <img src="https://travelgram-rho.vercel.app/assets/Logo.svg" alt="Nome da imagem">
+</div>
+
 # ✈️ Travelgram  
 
 > Projeto desenvolvido como parte da **Faculdade Rocketseat**, com o objetivo de praticar o uso do **Flexbox** para construção de layouts modernos e bem estruturados.
