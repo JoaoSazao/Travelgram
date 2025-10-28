@@ -1,5 +1,3 @@
-![Logo da Minha Empresa](https://travelgram-rho.vercel.app/assets/Logo.svg)
-
 <div align="center">
   <img src="https://travelgram-rho.vercel.app/assets/Logo.svg" alt="Nome da imagem">
 </div>
